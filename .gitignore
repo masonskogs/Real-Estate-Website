@@ -1,0 +1,74 @@
+# ================================
+# React / Node
+# ================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# React/Vite build output
+dist/
+build/
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# ================================
+# Visual Studio / .NET
+# ================================
+
+.vs/
+bin/
+obj/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+
+# ================================
+# .NET generated files
+# ================================
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+
+# ================================
+# Operating System
+# ================================
+
+.DS_Store
+Thumbs.db
+
+
+# ================================
+# Logs
+# ================================
+
+*.log
+
+
+# ================================
+# Local database files
+# ================================
+
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
